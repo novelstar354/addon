@@ -132,6 +132,9 @@ RP/
 
 ---
 
+## テクスチャ
+テクスチャはzipファイルの中に入っています。https://github.com/novelstar354/textureから見ることもできます。
+
 ## 対応バージョン
 
 Minecraft Bedrock Edition 1.21.x
