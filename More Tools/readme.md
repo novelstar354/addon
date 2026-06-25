@@ -1,4 +1,4 @@
-# STar Tools Addon
+# More Tools Addon
 
 Minecraft Bedrock Edition 用のアドオンです。
 
