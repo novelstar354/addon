@@ -133,8 +133,8 @@ RP/
 ---
 
 ## テクスチャ
-テクスチャはzipファイルの中に入っています。また、下のリンクから見ることもできます。
-https://github.com/novelstar354/texture
+テクスチャはzipファイルの中に入っています。
+https://github.com/novelstar354/texture から見ることもできます。
 
 ## 対応バージョン
 
